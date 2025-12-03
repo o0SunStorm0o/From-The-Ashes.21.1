@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "fromtheashes:block/raw_moonsilver_block"
+  }
+}
